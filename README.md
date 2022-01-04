@@ -1,2 +1,4 @@
-# oscript-autotesting
-Autotest scripts with Vanessa automation and one script
+# oscript-common-tasks 
+1. Скрипты для запуска автотестов на Vanessa automation.
+2. Выгрузка конфигурации в гит и контроль качества кода.
+3. Резервное копирование базы данных по расписанию (формирование ежедневных, еженедельных и ежемесячных копий).
